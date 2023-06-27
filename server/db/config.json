@@ -1,0 +1,7 @@
+{
+    "host": "tribormysqlpfe019.mysql.database.azure.com",
+    "user": "TriborPFE019",
+    "password": "PFE019admin",
+    "database": "iotdatabase"
+  }
+  
